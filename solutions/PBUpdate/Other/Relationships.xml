@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="msdyn_account_account_BillingAccount" />
+  <EntityRelationship Name="msdyn_bookableresource_account_PreferredResource" />
+  <EntityRelationship Name="msdyn_msdyn_functionallocation_account" />
+  <EntityRelationship Name="msdyn_msdyn_taxcode_account_SalesTaxCode" />
+  <EntityRelationship Name="msdyn_msdyn_workhourtemplate_account_workhourtemplate" />
+  <EntityRelationship Name="msdyn_territory_account_ServiceTerritory" />
+</EntityRelationships>
